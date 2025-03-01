@@ -6,7 +6,7 @@ I am a Sr DevSecOps Engineer & Security Consultant from Nepal<img src="https://u
 ### Currently I am working with ...
 
 <!-- Cloud Technologies -->
-<a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/aws-2749233-2284623.png?f=webp&w=256" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.figma.com/community/file/1191778785581762270/aws-logo?f=webp&w=256" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GCP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30"/></a>&nbsp;&nbsp;
 
